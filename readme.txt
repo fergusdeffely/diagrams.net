@@ -1,0 +1,1 @@
+A repository to store stand-alone diagrams created with the diagrams.net webapp
